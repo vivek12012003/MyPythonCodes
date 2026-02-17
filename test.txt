@@ -1,0 +1,47 @@
+VIVEK SAHU
+Bhopal, Madhya Pradesh|+91-6263049746
+viveksahu4008@gmail.com
+linkedin.com/in/mrviveksahu
+Photo Space
+EDUCATION
+Master of Computer Applications (MCA)Expected 2026
+Bansal College, Bhopal – Rajiv Gandhi University CGPA: 78.1%
+Bachelor of Science in Computer Science2021 – 2024
+PG College, Chhindwara – Raja Shankar Shah University Percentage: 71%
+EXPERIENCE
+Prompt Engineer 2024
+Outlier Platform Remote
+•Designed and optimized prompts for AI models, improving response accuracy and relevance by testing
+outputs and refining reasoning quality
+•Reduced hallucination errors in large language model outputs through systematic prompt engineering
+and structured evaluation
+•Created structured datasets to train and evaluate LLM performance, contributing to model improvement
+initiatives
+•Collaborated with cross-functional teams to enhance prompt templates and optimize workflow efficiency
+for AI applications
+Technical Expert & Teacher (Part-Time)2022 – 2024
+First Step Junior School, Chourai, MP
+•Led IT training initiatives and digitized school records using Excel and VBA automation, improving
+operational efficiency by 30%
+•Developed custom VBA solutions for automated record management, reducing manual data entry time
+by 40%
+•Trained faculty and staff on technology tools and best practices for digital workflow optimization
+PROJECTS
+OneLook – Universal Multi-Platform Search EngineTeam Lead & Developer
+•BuiltaunifiedsearchengineaggregatingresultsfrommultipleplatformsusingHTML,CSS,andJavaScript
+•Implemented Google OAuth authentication and integrated cloud database for bookmark and search his-
+tory management
+•Designed responsive UI optimized for seamless navigation across desktop, tablet, and mobile devices
+•Led end-to-end development lifecycle including planning, coding, testing, and deployment with a team of
+developers
+MedCare – Clinic Management Web ApplicationTeam Leader
+•Developed full-stack appointment booking system using PHP and MySQL with responsive frontend design
+•Led team of 3 developers to deliver functional healthcare web application with patient management
+features
+•Implementedsecureuserauthenticationandrole-basedaccesscontrolforpatientsandhealthcareproviders
+Student Record Management SystemDeveloper
+•Automated student and teacher record handling using VBA and Google Apps Script with secure login
+system
+•Reduced manual data handling time by 40% through automated workflows and mobile-accessible Google
+Sheets integration
+•Designed data validation and error-checking mechanisms to ensure data integrity across 500+ records
